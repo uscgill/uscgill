@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ajit Gill!
+- 👀 I’m interested in: Finance, Data Science 
+- 📫 How to reach me asgill@usc.edu
